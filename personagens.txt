@@ -3,3 +3,5 @@ personagens Naruto
 naruto
 sakura 
 sask
+obito
+kakashi
