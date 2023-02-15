@@ -5,3 +5,6 @@ sakura
 sask
 obito
 kakashi
+
+tobirama
+hashirama
